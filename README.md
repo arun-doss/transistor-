@@ -1,6 +1,10 @@
 README
 ======
 
+# Under Development
+
+**This project is under development and won't work. The scope is to add scheduled recording functionality to the Transistor application.**
+
 # Transistor - Simple Radio App
 <img src="https://codeberg.org/y20k/transistor/raw/branch/master/metadata/en-US/images/icon.png" width="192" />
 
@@ -10,10 +14,8 @@ Transistor is an app with a minimalistic approach for listening to radio program
 
 Transistor is free software. It is published under the [MIT open source license](https://opensource.org/licenses/MIT). Want to help? Please check out the notes in [CONTRIBUTE.md](https://codeberg.org/y20k/transistor/src/branch/master/CONTRIBUTE.md) first.
 
-## Install Transistor
+## Install Transistor Recorder
 You can install Transistor via F-Droid or IzzyOnDroid.
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/repository/browse/?fdid=org.y20k.transistor) [<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IzzyOnDroid" height="80">](https://apt.izzysoft.de/packages/org.y20k.transistor/)
 
 ## Frequent Questions
 
